@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FGT</string>
+
+    <string-array name="options_array">
+        <item>Centro de Noticias</item>
+        <item>Resultados</item>
+        <item>Posiciones</item>
+        <item>Calendario</item>
+        <item>Favoritos</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="title_activity_my_oauth">MyOAuthActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_time_line_item">TimeLineItemActivity</string>
+    <string name="title_activity_image_view">ImageViewActivity</string>
+    <string name="shared_preferences_file">com.artfullabs.footballgamestracker.PREFERENCE_FILE</string>
+    
+
+</resources>
